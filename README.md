@@ -1,4 +1,4 @@
-npm install
+npm install\\
 npm start
 
 ### Refer to the image below:
